@@ -4,6 +4,10 @@ version = "0.1.5"
 description = ""
 authors = ["lara-imrsv <lara@imrsv.ai>"]
 license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/lara-imrsv/enrichPipe"
+repository = "https://github.com/lara-imrsv/enrichPipe"
+documentation = "http://enrichPipe.readthedocs.io"
 
 [tool.poetry.dependencies]
 python = "^3.8"
