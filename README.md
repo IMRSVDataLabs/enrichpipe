@@ -2,7 +2,7 @@
 
 [![build](https://github.com/lara-imrsv/enrichPipe/actions/workflows/build.yml/badge.svg)](https://github.com/lara-imrsv/enrichPipe/actions/workflows/build.yml)
 [![Deploy](https://github.com/lara-imrsv/enrichPipe/actions/workflows/deploy.yml/badge.svg)](https://github.com/lara-imrsv/enrichPipe/actions/workflows/deploy.yml)
-![](https://github.com/lara-imrsv/enrichPipe/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/lara-imrsv/enrichPipe/branch/main/graph/badge.svg?token=3KW44NKWAS)](https://codecov.io/gh/lara-imrsv/enrichPipe) [![Documentation Status](https://readthedocs.org/projects/enrichPipe/badge/?version=latest)](https://easysklearn.readthedocs.io/en/latest/?badge=latest)
+![](https://github.com/lara-imrsv/enrichPipe/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/lara-imrsv/enrichPipe/branch/main/graph/badge.svg?token=3KW44NKWAS)](https://codecov.io/gh/lara-imrsv/enrichPipe) [![Documentation Status](https://readthedocs.org/projects/enrichPipe/badge/?version=latest)](https://enrichPipe.readthedocs.io/en/latest/?badge=latest)
 
 ## Summary
 
