@@ -1,5 +1,5 @@
 import pytest
-from src.alphabet_check import alphabet_check
+from enrichPipe.alphabet_check import alphabet_check
 
 
 def test_alphabet_check():
