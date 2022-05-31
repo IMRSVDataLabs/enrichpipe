@@ -1,4 +1,4 @@
-from enrichPipe.bleu_score import bleu_score
+from enrichpipe.bleu_score import bleu_score
 import pytest
 
 
