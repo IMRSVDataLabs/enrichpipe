@@ -1,14 +1,6 @@
 Welcome to enrichpipe's documentation!
 ===========================================================
 
-.. image:: https://img.shields.io/badge/cookiecutter-ubc--mds-yellow
-        :target: https://github.com/UBC-MDS/cookiecutter-ubc-mds
-
-.. image:: https://img.shields.io/badge/badges-shields.io-brightgreen
-        :target: https://shields.io/
-
-This cookiecutter creates a boilerplate for a Python project.
-
 To get started, check out the sections below:
 
 .. toctree::
