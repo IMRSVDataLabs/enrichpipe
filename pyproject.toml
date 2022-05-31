@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "enrichpipe"
-version = "0.1.9"
+version = "0.1.10"
 description = ""
 authors = ["lara-imrsv <lara@imrsv.ai>"]
 license = "MIT"
