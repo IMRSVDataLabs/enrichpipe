@@ -23,6 +23,7 @@ Sphinx = "^3.5.2"
 sphinxcontrib-napoleon = "^0.7"
 nbsphinx = "^0.8.2"
 ipykernel = "^5.5.0"
+nltk = "^3.7"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
