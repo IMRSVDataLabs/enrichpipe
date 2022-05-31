@@ -54,7 +54,7 @@ TODO
 
 ## Documentation
 
-The official documentation is hosted on [Read the Docs](https://enrichpipe.readthedocs.io/en/latest/?badge=latest).
+The official documentation is hosted on [Read the Docs](https://enrichpipe.readthedocs.io/en/stable/).
 TODO Vignette - refer to usage.rst
 
 ## Contributors
