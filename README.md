@@ -24,7 +24,6 @@ This package introduces features used to enrich databases with curated data base
 
 ## Dependencies
 
-
 - python = "^3.8"
 - pandas = "^1.2.3"
 - numpy = "^1.20.1"
@@ -34,6 +33,7 @@ This package introduces features used to enrich databases with curated data base
 - ipython = "^7.21.0"    
 - jupyter = "^1.0.0"
 
+For a complete list of dependencies, see [poetry.toml](https://github.com/lara-imrsv/enrichpipe/blob/main/poetry.lock)
 
 ## Usage
 
