@@ -3,7 +3,7 @@
 [![build](https://github.com/lara-imrsv/enrichpipe/actions/workflows/build.yml/badge.svg)](https://github.com/lara-imrsv/enrichpipe/actions/workflows/build.yml)
 [![Deploy](https://github.com/lara-imrsv/enrichpipe/actions/workflows/deploy.yml/badge.svg)](https://github.com/lara-imrsv/enrichpipe/actions/workflows/deploy.yml)
 [![codecov](https://codecov.io/gh/lara-imrsv/enrichpipe/branch/main/graph/badge.svg?token=3KW44NKWAS)](https://codecov.io/gh/lara-imrsv/enrichpipe) 
-[![Documentation Status](https://readthedocs.org/projects/enrichpipe/badge/?version=latest)](https://enrichpipe.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/enrichpipe/badge/?version=latest)](https://enrichpipe.readthedocs.io/en/stable/)
 
 ## Summary
 
@@ -63,7 +63,6 @@ Development Team:
 
 - Lara Habashy
 - Wyatt Kyte
-
 
 We welcome and recognize all contributions. If you would like to contribute, please view our [contributing guidelines](https://github.com/lara-imrsv/enrichpipe/blob/main/CONTRIBUTING.rst) and get familiar with the [Github flow](https://blog.programster.org/git-workflows) workflow.
 
