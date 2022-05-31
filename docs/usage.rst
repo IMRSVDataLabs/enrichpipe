@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use enrichPipe in a project::
+To use enrichpipe in a project::
 
-    import enrichPipe
+    import enrichpipe

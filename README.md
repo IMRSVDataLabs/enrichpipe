@@ -1,17 +1,17 @@
-# enrichPipe 
+# enrichpipe 
 
-[![build](https://github.com/lara-imrsv/enrichPipe/actions/workflows/build.yml/badge.svg)](https://github.com/lara-imrsv/enrichPipe/actions/workflows/build.yml)
-[![Deploy](https://github.com/lara-imrsv/enrichPipe/actions/workflows/deploy.yml/badge.svg)](https://github.com/lara-imrsv/enrichPipe/actions/workflows/deploy.yml)
-![](https://github.com/lara-imrsv/enrichPipe/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/lara-imrsv/enrichPipe/branch/main/graph/badge.svg?token=3KW44NKWAS)](https://codecov.io/gh/lara-imrsv/enrichPipe) [![Documentation Status](https://readthedocs.org/projects/enrichPipe/badge/?version=latest)](https://enrichPipe.readthedocs.io/en/latest/?badge=latest)
+[![build](https://github.com/lara-imrsv/enrichpipe/actions/workflows/build.yml/badge.svg)](https://github.com/lara-imrsv/enrichpipe/actions/workflows/build.yml)
+[![Deploy](https://github.com/lara-imrsv/enrichpipe/actions/workflows/deploy.yml/badge.svg)](https://github.com/lara-imrsv/enrichpipe/actions/workflows/deploy.yml)
+![](https://github.com/lara-imrsv/enrichpipe/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/lara-imrsv/enrichpipe/branch/main/graph/badge.svg?token=3KW44NKWAS)](https://codecov.io/gh/lara-imrsv/enrichpipe) [![Documentation Status](https://readthedocs.org/projects/enrichpipe/badge/?version=latest)](https://enrichpipe.readthedocs.io/en/latest/?badge=latest)
 
 ## Summary
 
-enrichPipe is a python package designed to perform exploratory data analysis, to help with missing data imputation and to give baseline models. Also, it assists in feature selection which is a common problem when undertaking a data science or machine learning analysis. As its name indicates, this function operates like sklearn. It carries out tasks such as splitting data, feature selection, model fitting, numerical missing data imputation etc.
+enrichpipe is a python package designed to perform exploratory data analysis, to help with missing data imputation and to give baseline models. Also, it assists in feature selection which is a common problem when undertaking a data science or machine learning analysis. As its name indicates, this function operates like sklearn. It carries out tasks such as splitting data, feature selection, model fitting, numerical missing data imputation etc.
 
 ## Installation
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ enrichPipe
+$ pip install -i https://test.pypi.org/simple/ enrichpipe
 ```
 
 ## Features
@@ -46,14 +46,14 @@ This package introduces features used to enrich databases with query result cura
 
 ```Python
 
-from enrichPipe import alphabet_check, bleu_score
+from enrichpipe import alphabet_check, bleu_score
 TODO 
 
 ```
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://enrichPipe.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://enrichpipe.readthedocs.io/en/latest/
 
 ## Contributors
 

@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "enrichPipe"
+name = "enrichpipe"
 version = "0.1.6"
 description = ""
 authors = ["lara-imrsv <lara@imrsv.ai>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/lara-imrsv/enrichPipe"
-repository = "https://github.com/lara-imrsv/enrichPipe"
-documentation = "http://enrichPipe.readthedocs.io"
+homepage = "https://github.com/lara-imrsv/enrichpipe"
+repository = "https://github.com/lara-imrsv/enrichpipe"
+documentation = "http://enrichpipe.readthedocs.io"
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -34,7 +34,7 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.semantic_release]
-version_variable = "enrichPipe/__init__.py:__version__"
+version_variable = "enrichpipe/__init__.py:__version__"
 version_source = "commit"
 upload_to_pypi = "false"
 patch_without_tag = "true"

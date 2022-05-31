@@ -1,4 +1,4 @@
-Welcome to enrichPipe's documentation!
+Welcome to enrichpipe's documentation!
 ===========================================================
 
 .. image:: https://img.shields.io/badge/cookiecutter-ubc--mds-yellow

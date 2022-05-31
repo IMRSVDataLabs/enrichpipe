@@ -1,21 +1,21 @@
-enrichPipe package
+enrichpipe package
 ==================
 
 Submodules
 ----------
 
-enrichPipe.alphabet\_check module
+enrichpipe.alphabet\_check module
 ---------------------------------
 
-.. automodule:: enrichPipe.alphabet_check
+.. automodule:: enrichpipe.alphabet_check
    :members:
    :undoc-members:
    :show-inheritance:
 
-enrichPipe.bleu\_score module
+enrichpipe.bleu\_score module
 -----------------------------
 
-.. automodule:: enrichPipe.bleu_score
+.. automodule:: enrichpipe.bleu_score
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ enrichPipe.bleu\_score module
 Module contents
 ---------------
 
-.. automodule:: enrichPipe
+.. automodule:: enrichpipe
    :members:
    :undoc-members:
    :show-inheritance:

@@ -1,7 +1,7 @@
-enrichPipe
+enrichpipe
 ==========
 
 .. toctree::
    :maxdepth: 4
 
-   enrichPipe
+   enrichpipe
