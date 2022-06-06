@@ -1,6 +1,6 @@
 import spacy
 import os
-path = os.path.abspath('../spacy/en_core_web_sm/en_core_web_sm-3.3.0')
+path = os.path.abspath('./spacy/en_core_web_sm/en_core_web_sm-3.3.0')
 nlp = spacy.load(path)
 
 
