@@ -1,21 +1,18 @@
 import nltk
 
 
-def bleu_score(references, hypothesis, weights=(0.5, 0.5)):
+def word_count(references, hypothesis, weights=(0.5, 0.5)):
     """ The BLEU metric scores a translation on a scale of 0 to 1,
     in an attempt to measure the adequacy and fluency of the Machine Learning output
-
     Parameters
     ----------
     references : list of data of type str
                  Reference sentences
     hypothesis: data of type str
                 A hypothesis sentence; often is a machine translated text
-
     Return -> List of floats
     --------
     The sentence-level BLEU score. Returns a list if multiple weights were supplied.
-
     Examples
     --------
     Refer to nltk docs

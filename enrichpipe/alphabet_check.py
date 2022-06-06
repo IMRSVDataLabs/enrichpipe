@@ -1,27 +1,30 @@
 def alphabet_check(sentence, lang):
     """ Checks if a particular text has characters in a suspected language
+
     Parameters
     ----------
     string : data of type str
              The sentence getting checked for containing the correct alphabet.
     lang : data of type str
             The suspected language alphabet in which to check. must be defined above function.
+
     Return -> coupled tuple
     -------
     percentage : float
                 percentage value of alphabet found that is NOT in the suspected language alphabet.
     not_lang : list
                 list of all characters NOT contained in the suspected language alphabet.
+
     Examples
     --------
-    >>> from src.alphabet_check import alphabet_check
+    >>> from enrichpipe.alphabet_check import alphabet_check
     >>> sentence = 'Hello World!'
     >>> lang = 'en'
     >>> alphabet_check(sentence, lang='en')
     >>> (0.0, [])
     >>> alphabet_check(sentence, lang='uk')
     >>> (0.0, ['h', 'e', 'l', 'o', 'w', 'r', 'd'])
-    >>> alphabet_check(sentence, lang='uk) #sentence contains some non-Eukraine letters
+    >>> alphabet_check(sentence, lang='uk)   # sentence contains some non-Eukraine letters
     >>> (0.03, ['s', 'h', 'e', 'i', 'n', 'v', 'r', 't', 'd', 'o', 'p', 'a'])
     >>> alphabet_check(sentence, lang='ar')
     >>> 'Language Not Found'
