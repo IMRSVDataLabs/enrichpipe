@@ -1,5 +1,7 @@
 import spacy
-nlp = spacy.load('en_core_web_sm')
+import os
+path = os.path.abspath('../spacy/en_core_web_sm/en_core_web_sm-3.3.0')
+nlp = spacy.load(path)
 
 
 def ner(sentence, nlp_tokenizer):
