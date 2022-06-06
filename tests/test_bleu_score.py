@@ -33,7 +33,7 @@ def test_bleu_score_inputs():
 
 def test_bleu_score():
     """
-    This test creates toy data to test the bleu score function's behaviour.
+    This test creates toy data to test the bleu score function's behaviour
     """
     hypothesis = 'Is there power at my home'
     reference1 = 'There is no power at my house'
