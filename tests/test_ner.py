@@ -27,9 +27,10 @@ def test_ner():
     sentence = 'Tom and Sarah went shopping in Cuba while on Vacation'
     nlp = spacy.load('en_core_web_sm')
     entities = ner(sentence, nlp)
+
     # input test
     assert isinstance(sentence, str)
-    
+
     # output check
     assert isinstance(entities, dict)
     for key in entities:
@@ -37,4 +38,4 @@ def test_ner():
     for i in entities.values():
         assert isinstance(i, list)
         for j in i:
-            assert isinstance(j ,str)
+            assert isinstance(j, str)
